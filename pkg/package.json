@@ -1,16 +1,16 @@
 {
-  "name": "wasm-game-of-life",
+  "name": "wasm-game-of-life-jesuscovam",
   "collaborators": [
     "Jesus Cova <jesuscovam@gmail.com>"
   ],
-  "version": "0.1.0",
+  "version": "0.1.1",
   "files": [
-    "wasm_game_of_life_bg.wasm",
-    "wasm_game_of_life.js",
-    "wasm_game_of_life_bg.js",
-    "wasm_game_of_life.d.ts"
+    "wasm_game_of_life_jesuscovam_bg.wasm",
+    "wasm_game_of_life_jesuscovam.js",
+    "wasm_game_of_life_jesuscovam_bg.js",
+    "wasm_game_of_life_jesuscovam.d.ts"
   ],
-  "module": "wasm_game_of_life.js",
-  "types": "wasm_game_of_life.d.ts",
+  "module": "wasm_game_of_life_jesuscovam.js",
+  "types": "wasm_game_of_life_jesuscovam.d.ts",
   "sideEffects": false
 }
